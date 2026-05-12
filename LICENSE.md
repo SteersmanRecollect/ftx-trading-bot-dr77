@@ -1,4 +1,4 @@
-# 
+# updated Automation Script for deribit trading bot | isolated-margin + low-frequency offers the most advanced deribit trading bot, with isolated-margin and low-frequency. Ideal for
 
 
 
